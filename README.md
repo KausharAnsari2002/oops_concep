@@ -1,2 +1,2 @@
 # oops_concep
-this is the demo for opps__concept git &amp; github class
+this is the demo for opps__concept git &amp; github class.
